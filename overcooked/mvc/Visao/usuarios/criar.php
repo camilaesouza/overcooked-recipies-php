@@ -42,6 +42,10 @@
                       </form>
                   </div>
               </div>
+
+              <div class="mt-3">
+                <a class="btn btn-light" href="<?= URL_RAIZ . 'login' ?>">Ir para login</a>
+              </div>
           </div>
       </div>
   </div>
